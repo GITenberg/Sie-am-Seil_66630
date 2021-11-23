@@ -5,12 +5,17 @@ contributor:
     agent_name: Engelhardt, Joseph
     gutenberg_agent_id: '53890'
     url: http://www.gutenberg.org/2009/agents/53890
+covers:
+- cover_type: archival
+  image_path: 66630-h/images/cover.jpg
 creator:
   author:
     agent_name: Baudissin, Eva von
     gutenberg_agent_id: '53889'
     url: http://www.gutenberg.org/2009/agents/53889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66630#Sie-am-Seil
 gutenberg_issued: '2021-10-29'
 identifiers:
   gutenberg: '66630'
